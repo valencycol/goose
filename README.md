@@ -2,8 +2,7 @@
 
 **Valency Oscar Colaco**, **Buse Atli**, and **Simin Nadjm-Tehrani**
 
-Institutionen för Datavetenskap (IDA)
-Linköping University, Sweden
+Institutionen för Datavetenskap (IDA) @ Linköping University, Sweden
 
 * Valency Oscar Colaco — [valency.colaco@liu.se](mailto:valency.colaco@liu.se)
 * Buse Atli — [buse.atli@liu.se](mailto:buse.atli@liu.se)
