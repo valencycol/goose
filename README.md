@@ -18,7 +18,7 @@ The source code, datasets/configuration details, experimental scripts, and addit
 
 ### Additional metrics
 
-If we consider the detection metrics computed in, for example, [`cic-iiot-datasense.ipynb`](cic-iiot-datasense.ipynb), the snippet below is taken from that notebook (the *AUROC threshold selection for COMBINED margins* cell) and shows the pattern used throughout all experiments:
+If we consider the detection metrics computed in, for example, `cic-iiot-datasense.ipynb`, the snippet below is taken from that notebook (the *AUROC threshold selection for COMBINED margins* cell) and shows the pattern used throughout all experiments:
 
 ```python
 # snippet from cic-iiot-datasense.ipynb
